@@ -1,0 +1,4 @@
+POST http://localhost:3030/recipes
+
+###
+GET http://localhost:3030/recipes
